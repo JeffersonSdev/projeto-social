@@ -8,11 +8,7 @@
     height: 0px;
 }
 
-img{
-    width: 100vw;
-    margin-bottom: -5px;
-}
-a{
+a.botao{
     display: block;
     background-color: aquamarine;
     padding: 8px;
